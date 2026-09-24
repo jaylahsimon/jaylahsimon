@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Jaylah! 👋
 
-<!--
-**jaylahsimon/jaylahsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="165" height="200" alt="jaylah-simon@uiowa edu-684942af" src="https://github.com/user-attachments/assets/4dc0190d-1a99-4d2c-989e-67350126b766" />
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a second year **Student** with experience in **Excel and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 📫 How to reach me: **[simonjaylah@gmail.com]**
+- ⚡ Fun fact: **I'm ambidextrous**
+- 🌱 I’m currently learning how to use GitHub
+
+## Get in Touch on Linked In📬
+
+- **www.linkedin.com/in/jaylah-simon**
+
+
+
